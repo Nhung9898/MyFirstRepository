@@ -1,1 +1,0 @@
-// innerHeight, dette er en ny test igjen. 
