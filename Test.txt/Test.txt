@@ -1,1 +1,2 @@
-Hei, dette er også en test
+Hei, dette er også en test.
+Hei god morgen. 
